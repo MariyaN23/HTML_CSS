@@ -3,8 +3,8 @@ export const myTheme = {
         primary: "black",
         secondary: "pink",
         grey: {
-            dark: "#646464",
-            light: "#cecece"
+            dark: "#d0cece",
+            light: "#f5f3f3"
         }
     },
     media: {

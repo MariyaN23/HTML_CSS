@@ -1,1 +1,8 @@
-
+.text-field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    gap: 30px;
+}
